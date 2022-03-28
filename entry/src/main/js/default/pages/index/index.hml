@@ -1,5 +1,5 @@
-<element name='neutheme' src='../../../../../../node_modules/neumorphism/theme/theme.hml'></element>
-<element name='neudropdown' src='../../../../../../node_modules/neumorphism/dropdown/dropdown.hml'></element>
+<element name='neutheme' src='../../../../../../node_modules/hmos-neumorphism/theme/theme.hml'></element>
+<element name='neudropdown' src='../../../../../../node_modules/hmos-neumorphism/dropdown/dropdown.hml'></element>
 
 <neutheme class="container" theme="" color="">
     <text class='title'>

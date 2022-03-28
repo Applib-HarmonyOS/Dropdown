@@ -2,29 +2,9 @@
 
 # Installation :
 
-1. Copy the neumorph_dropdown folder in your repo.
-2. Add neumorphism as a dependency in your package.json file.
+Install using npm
 
-```json
-{
-  "dependencies": {
-    "neumorphism": "file:../neumorph_dropdown"
-  }
-}
-```
-
-# Note :
-
-Add this css snippet when passing input or button through slot .
-
-```css
-button, input{
-    width: 100%;
-    height: 100%;
-    background-color:transparent;
-    text-color: black;
-}
-```
+```npm i hmos-neumorphism ```
 
 # Dropdown
 
@@ -32,7 +12,7 @@ button, input{
 
 Import:
 ```html
-<element name='neudropdown' src='../../../../../../node_modules/neumorphism/dropdown/dropdown.hml'></element>
+<element name='neudropdown' src='../../../../../../node_modules/hmos-neumorphism/dropdown/dropdown.hml'></element>
 ```
 
 Usage:
